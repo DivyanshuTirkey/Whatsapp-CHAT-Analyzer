@@ -38,5 +38,5 @@ Screenshot 2
 2. Once imported, explore various sections to analyze your chat data.
 3. Customize visualizations, track keywords, and interpret the results to gain insights into your conversations.
 
-Visit [whatsappinspect.streamlit.app](https://whatsappinspect.streamlit.app){:target="_blank"} in your web browser to use the Whatsapp-Chat-Analyzer
+Visit [whatsappinspect.streamlit.app](https://whatsappinspect.streamlit.app/) in your web browser to use the Whatsapp-Chat-Analyzer
 
